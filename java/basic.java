@@ -74,6 +74,42 @@ public class Main {
         int breadth = 20;
         int area = length * breadth;
         System.out.println("Area Of Rectangle Is" + area +"cm2");
+        // Area Of Circle
+        double radius = 5;
+        double circlearea = Math.PI * Math.pow(radius, 2);
+        System.out.println("Area of Circle is " + circlearea + " square units");
+       // Fahrenheit - Celcius
+        Scanner scanner = new Scanner(System.in);
+
+
+        System.out.print("Enter temperature in Fahrenheit: ");
+        double fahrenheit = scanner.nextDouble();
+
+
+        double celsius = (fahrenheit - 32) * 5 / 9;
+
+
+        System.out.printf("Temperature in Celsius: %.2f°C%n", celsius);
+
+        scanner.close();
+       // Calculate Simple Interest
+        Scanner scanner22 = new Scanner(System.in);
+
+        System.out.print("Enter Principal amount: ");
+        double principal = scanner22.nextDouble();
+
+        System.out.print("Enter Rate of Interest (per year): ");
+        double rate = scanner22.nextDouble();
+
+        System.out.print("Enter Time (in years): ");
+        double time = scanner22.nextDouble();
+
         
+        double simpleInterest = (principal * rate * time) / 100;
+
+
+        System.out.printf("Simple Interest: %.2f%n", simpleInterest);
+
+        scanner.close();
     }
 }
