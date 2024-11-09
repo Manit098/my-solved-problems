@@ -19,7 +19,7 @@ You can explore my solutions in detail on GitHub: [@legendryPro/my-projects-hub]
 
 Each problem's solution is organized by language, with clear and well-documented code to help understand my approach. Here’s a breakdown of the folder structure in the repository:
 
-- **Java/** - Contains 100 solutions using Java, ranging from beginner to advanced levels.
+- **Java/** - Contains 50 solutions using Java, ranging from beginner to advanced levels.
 
 
 As I add more solutions, I’ll continue to update the repository and this README.
