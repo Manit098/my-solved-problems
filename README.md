@@ -9,9 +9,9 @@ You can explore my solutions in detail on GitHub: [@legendryPro/my-projects-hub]
 
 | Language     | Problems Solved |
 |--------------|-----------------|
-| Java         | 100             |
-| Python       | 100             |
-| JavaScript   | 100             |
+| Java         | 50              |
+| Python       | Coming Soon     |          |
+| JavaScript   | Coming Soon     |
 | C            | Coming Soon     |
 | C++          | Coming Soon     |
 
@@ -20,8 +20,7 @@ You can explore my solutions in detail on GitHub: [@legendryPro/my-projects-hub]
 Each problem's solution is organized by language, with clear and well-documented code to help understand my approach. Here’s a breakdown of the folder structure in the repository:
 
 - **Java/** - Contains 100 solutions using Java, ranging from beginner to advanced levels.
-- **Python/** - Contains 100 Python solutions, covering various topics and algorithms.
-- **JavaScript/** - Contains 100 JavaScript solutions, including web-focused challenges and general algorithms.
+
 
 As I add more solutions, I’ll continue to update the repository and this README.
 
